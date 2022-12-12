@@ -1,17 +1,19 @@
 ### hey there
 
-hi, i'm lleonesouza, a self-taught back-end developer and devops engineer. my passion for coding started with fourteen years old when I was interested on how hacking works. i'm good with architecture, automation and code quaility.
+hi, i'm lleonesouza, a self-taught back-end developer and devops engineer. my passion for coding started when I was fourteen years old learning how hacking works. i'm good with databases, architecture, automation and code quaility.
 
 <br />
 
-i'm also a participant of hackatons, already won the first place in a hackton of a brazilian government company again't covid, check the project here
+i'm also a stronger participant of hackatons, already won the first place in an brazilian government company hackton against covid19 (check the project here) and many others in the five top project positions.
 
+<br />
 
-
-### Languages and Tools:
+### skills
+<!-- icons size fixed to 48x48 -->
 
 Typescript
 Golang
+Lua
 Postgres
 MongoDb
 AWS
@@ -23,6 +25,7 @@ Shell
 
 Github
 Terminal
+
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
@@ -38,6 +41,14 @@ Terminal
 
 <br />
 <br />
+
+
+
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 <!-- --- -->
 
