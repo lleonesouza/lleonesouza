@@ -7,9 +7,6 @@
 <!-- <code><img  alt="code" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza</code>main/code.gif"</code>
  /> -->
 
-<br />
-<br />
-
 ### languagues and tools that i like to use.
 
 <code><img  alt="typescript" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/typescript.svg" /></code>
