@@ -1,10 +1,9 @@
-### hey there 👋
-
-I'm software developer that loves DevOps stuffs 🐧
+### hey there
 
 <code><img  alt="twitter" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/twitter.svg" /></code>
 <code><img  alt="instagram" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/instagram.svg" /></code>
-<code><img  alt="twitter" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza</code>main/icons/twitter.svg" /></code>
+<code><img  alt="medium" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza</code>main/icons/medium.svg" /></code>
+
 
 <!-- <code><img  alt="code" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza</code>main/code.gif"</code>
  /> -->
@@ -16,8 +15,8 @@ I'm software developer that loves DevOps stuffs 🐧
 
 <code><img  alt="typescript" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/typescript.svg" /></code>
 <code><img  alt="golang" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/golang.svg" /></code>
-<code><img  alt="postgresql" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/typescript.svg" /></code>
-<code><img  alt="mongodb" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/typescript.svg" /></code>
+<code><img  alt="postgresql" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/postgresql.svg" /></code>
+<code><img  alt="mongodb" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/mongodb.svg" /></code>
 <code><img  alt="docker" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/docker.svg" /></code>
 <code><img  alt="aws" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/aws.svg" /></code>
 <code><img  alt="gcloud" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/gcloud.svg" /></code>
