@@ -1,7 +1,6 @@
 ### hey there 👋
 
-I'm software developer that loves DevOps stuffs 🐧.
-
+I'm software developer that loves DevOps stuffs 🐧
 
 <code><img  alt="twitter" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/twitter.svg" /></code>
 <code><img  alt="insta" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/insta.svg" /></code>
@@ -14,7 +13,7 @@ I'm software developer that loves DevOps stuffs 🐧.
 <br />
 <br />
 
-### my skills
+### languagues and tools that i like 
 
 <code><img  alt="typescript" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/typescript.svg" /></code>
 <code><img  alt="golang" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/golang.svg" /></code>
