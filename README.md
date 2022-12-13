@@ -2,8 +2,7 @@
 
 <code><img  alt="twitter" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/twitter.svg" /></code>
 <code><img  alt="instagram" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/instagram.svg" /></code>
-<code><img  alt="medium" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza</code>main/icons/medium.svg" /></code>
-
+<code><img  alt="medium" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza/main/icons/medium.svg" /></code>
 
 <!-- <code><img  alt="code" src="https://raw.githubusercontent.com/lleonesouza/lleonesouza</code>main/code.gif"</code>
  /> -->
